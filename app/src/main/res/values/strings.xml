@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">TourGuideAppHM</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_accommodation">Accommod-ation</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_historical">Historical</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attraction</string>
+
+    <!--String for attractions-->
+    <string name="attraction_name_one">Stamford Bridge</string>
+    <string name="attraction_name_two">Hyde Park</string>
+    <string name="attraction_name_three">Westfield London</string>
+    <string name="attraction_name_four">Madame Tussauds London</string>
+    <string name="attraction_name_five">Velodrome</string>
+    <string name="attraction_name_six">Coca Cola London Eye</string>
+    <string name="attraction_name_seven">Tate Britain</string>
+    <string name="attraction_name_eight">The London Dungeon</string>
+
+    <string name="attraction_address_one">Fulham Rd, Fulham, London SW6 1HS</string>
+    <string name="attraction_address_two">London W2 2UH</string>
+    <string name="attraction_address_three">Ariel Way, Shepherds Bush, London W12 7GF</string>
+    <string name="attraction_address_four">Marylebone Rd, Marylebone, London NW1 5LR</string>
+    <string name="attraction_address_five">London E15 2EN</string>
+    <string name="attraction_address_six">Lambeth, London SE1 7PB</string>
+    <string name="attraction_address_seven">Millbank, Westminster, London SW1P 4RG</string>
+    <string name="attraction_address_eight">Riverside Building, County Hall, Westminster Bridge Rd, Lambeth, London SE1 7PB</string>
+
+    <!--String for food-->
+    <string name="food_name_one">Red Dog Saloon</string>
+    <string name="food_name_two">Hiba Express</string>
+    <string name="food_name_three">Stax Diner</string>
+    <string name="food_name_four">Hutong</string>
+    <string name="food_name_five">Aqua Kyoto</string>
+    <string name="food_name_six">Turtle Bay</string>
+    <string name="food_name_seven">Roosters Peri Peri</string>
+    <string name="food_name_eight">Dishoom</string>
+
+    <string name="food_address_one">20 Berwick St, Soho, London W1F 0PY</string>
+    <string name="food_address_two">113 High Holborn, London WC1V 6JJ</string>
+    <string name="food_address_three">Kingly Court, Carnaby, London W1B 5PW</string>
+    <string name="food_address_four">The Shard, 31 St Thomas St, London SE1 9RY</string>
+    <string name="food_address_five">240 Regent St, Soho, London W1B 3BR</string>
+    <string name="food_address_six">16 High St, London W5 5DB</string>
+    <string name="food_address_seven">39 Cranbrook Road, Ilford IG1 4PA</string>
+    <string name="food_address_eight">Granary Square, 5 Stable St, Kings Cross, London N1C 4AB</string>
+
+    <!--String for accommodation-->
+    <string name="accodomation_name_one">No.8 Willesden</string>
+    <string name="accodomation_name_two">PubLove @ the Green Man</string>
+    <string name="accodomation_name_three">London365 Hostel</string>
+    <string name="accodomation_name_four">Palmers Lodge Hillspring</string>
+    <string name="accodomation_name_five">Hostel 639</string>
+    <string name="accodomation_name_six">London Backpackers</string>
+    <string name="accodomation_name_seven">Keystone House Hostel</string>
+    <string name="accodomation_name_eight">YHA London Earl\'s Court</string>
+
+    <string name="accodomation_address_one">305 High Rd, London NW10 2JT</string>
+    <string name="accodomation_address_two">308 Edgware Rd, London W2 1DY</string>
+    <string name="accodomation_address_three">37 Chatworth Road, London NW2 4BL</string>
+    <string name="accodomation_address_four">233 Willesden Ln, London NW2 5RP</string>
+    <string name="accodomation_address_five">639 Harrow Rd, London NW10 5NU</string>
+    <string name="accodomation_address_six">8-10 Queens Rd, London NW4 3NS</string>
+    <string name="accodomation_address_seven">272-276 Pentonville Rd, Kings Cross, London N1 9JY</string>
+    <string name="accommodation_address_eight">38 Bolton Gardens, Kensington, London SW5 0AQ</string>
+
+    <!--String for historical-->
+    <string name="historical_name_one">Big Ben</string>
+    <string name="historical_name_two">St. Paul\'s Cathedral</string>
+    <string name="historical_name_three">Tower of London</string>
+    <string name="historical_name_four">Marble Arch</string>
+    <string name="historical_name_five">Trafalgar Square</string>
+    <string name="historical_name_six">Royal Courts of Justice</string>
+    <string name="historical_name_seven">Piccadilly Circus</string>
+    <string name="historical_name_eight">Battersea Power Station</string>
+
+    <string name="historical_address_one">Westminster, London SW1A 0AA</string>
+    <string name="historical_address_two">St. Paul\'s Churchyard, London EC4M 8AD</string>
+    <string name="historical_address_three">St Katharine\'s and Wapping, London EC3N 4AB</string>
+    <string name="historical_address_four">Paddington, London, W1C 0EF</string>
+    <string name="historical_address_five">Trafalgar Square, London WC2N 5DN</string>
+    <string name="historical_address_six">Strand, London WC2A 2LL</string>
+    <string name="historical_address_seven">Piccadilly Circus, London W1D 7ET</string>
+    <string name="historical_address_eight">188 Riverlight Quay, London SW8 5BN</string>
+
+
+</resources>
